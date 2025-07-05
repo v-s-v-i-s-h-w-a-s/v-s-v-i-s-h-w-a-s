@@ -12,7 +12,7 @@
 
 ---
 
-**⭐ From [v-s-v-i-s-h-w-a-s](https://github.com/v-s-v-i-s-h-w-a-s)**
+**From [v-s-v-i-s-h-w-a-s](https://github.com/v-s-v-i-s-h-w-a-s)**
 
 </div>
 
