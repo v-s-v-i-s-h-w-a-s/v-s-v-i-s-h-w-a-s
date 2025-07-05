@@ -2,7 +2,7 @@
 # Hey there! I'm V S Vishwas
 
 <div align="center">
-  <img src="profile.png" width="200" style="border-radius: 50%;" alt="Your Name"/>
+  <img src="profile.jpeg" width="200" style="border-radius: 50%;" alt="Your Name"/>
 </div>
 
 ## About Me
