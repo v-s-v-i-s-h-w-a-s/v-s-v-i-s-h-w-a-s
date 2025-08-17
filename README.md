@@ -7,7 +7,7 @@
 
 ## About Me
 
-- I'm currently learning **Data Science and Machine Intelligence*
+- I'm currently learning *Data Science and Machine Intelligence*
 - How to reach me: **vishwasvshanthkumar@gmail.com**
 
 ---
